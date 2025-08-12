@@ -1,14 +1,12 @@
 #👋 Hi, I'm Anita Thapa
 
-- 🎯 Aiming to become a full-time Java developer in Tokyo
+- 🎯 Aiming to become a full-time developer in Tokyo
 - 🇯🇵 JLPT N2 | 🖥️ Learning Java & Oracle SQL
 - 📘 Preparing for Java Silver & Oracle SQL Certification in Nov 2025
+- 📘 Preparing for JLPT N1 in Dec 2025
+- Toeic Exam is on Aug 24
 
 ## 🔧 Skills
 - Java (Basic)
 - Oracle SQL (Basic)
 - HTML / CSS
-
-## 💻 Projects
-- [Java Calculator](https://github.com/anita-thapa/java-calculator)
-- [SQL Practice Queries](https://github.com/anita-thapa/sql-practice)
